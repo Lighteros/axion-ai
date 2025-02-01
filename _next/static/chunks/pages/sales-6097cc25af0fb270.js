@@ -113,7 +113,7 @@
                                 className: v()("page-scroll"),
                                 target: "_blank",
                                 title: "Litepaper",
-                                href: "https://docs.exabits.ai/",
+                                href: "https://quietstainer-document-0.gitbook.io/axion-ai",
                                 children: "Litepaper",
                               }),
                             }),

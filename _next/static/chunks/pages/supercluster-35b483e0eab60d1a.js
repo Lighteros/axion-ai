@@ -112,7 +112,7 @@
       };
       var j = a(4079),
         b = {
-          src: "/_next/static/media/NH100.55c1c5cd.webp",
+          src: "/_next/static/media/NH100.webp",
           height: 964,
           width: 1600,
           blurDataURL:
@@ -183,19 +183,19 @@
                             ),
                             children: [
                               (0, i.jsx)("a", {
-                                href: "/sales",
-                                title: "Deploy Now",
+                                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                                title: "Buy Now",
                                 className: u()(
                                   "btn btn-lg button-animated btn-contact-sales"
                                 ),
-                                children: "Deploy Now",
+                                children: "Buy Now",
                               }),
                               (0, i.jsx)("a", {
-                                href: "#gpus",
+                                href: "https://quietstainer-document-0.gitbook.io/axion-ai",
                                 title: "More GPUs",
                                 className: u()("btn btn-more-gpus"),
                                 onClick: a,
-                                children: "More",
+                                children: "Read Docs",
                               }),
                             ],
                           }),
@@ -608,7 +608,7 @@
         });
       };
       var k = {
-        src: "/_next/static/media/solution.fe99b311.webp",
+        src: "/_next/static/media/solution.webp",
         height: 1160,
         width: 1500,
         blurDataURL:
@@ -672,12 +672,12 @@
                         children: (0, i.jsx)("div", {
                           className: u()("col-lg-12 mt-3 mil-up"),
                           children: (0, i.jsx)("a", {
-                            href: "#",
-                            title: "Read More",
+                            href: "https://axion-ai-app-cs.vercel.app/",
+                            title: "Launch App",
                             className: u()(
                               "btn btn-lg button-animated btn-contact-sales mt-3"
                             ),
-                            children: "Read More",
+                            children: "Launch App",
                           }),
                         }),
                       }),
@@ -690,7 +690,7 @@
         });
       };
       var y = {
-          src: "/_next/static/media/dc-engineering.5b0a2197.webp",
+          src: "/_next/static/media/dc-engineering.webp",
           height: 533,
           width: 800,
           blurDataURL:
@@ -699,7 +699,7 @@
           blurHeight: 5,
         },
         V = {
-          src: "/_next/static/media/dc-smarthand.c46b047a.webp",
+          src: "/_next/static/media/dc-smarthand.webp",
           height: 533,
           width: 800,
           blurDataURL:
@@ -708,7 +708,7 @@
           blurHeight: 5,
         },
         M = {
-          src: "/_next/static/media/professional-service.644c8d40.webp",
+          src: "/_next/static/media/professional-service.webp",
           height: 533,
           width: 800,
           blurDataURL:
@@ -717,7 +717,7 @@
           blurHeight: 5,
         },
         J = {
-          src: "/_next/static/media/it-logistic.e68b2af1.webp",
+          src: "/_next/static/media/it-logistic.webp",
           height: 533,
           width: 800,
           blurDataURL:
@@ -726,7 +726,7 @@
           blurHeight: 5,
         },
         W = {
-          src: "/_next/static/media/manage.78ee863e.webp",
+          src: "/_next/static/media/manage.webp",
           height: 533,
           width: 800,
           blurDataURL:
@@ -735,7 +735,7 @@
           blurHeight: 5,
         },
         L = {
-          src: "/_next/static/media/dc-onsite.707eee5c.webp",
+          src: "/_next/static/media/dc-onsite.webp",
           height: 533,
           width: 800,
           blurDataURL:
@@ -940,7 +940,7 @@
         });
       };
       var H = {
-          src: "/_next/static/media/warehousing-service.61c2b0cf.webp",
+          src: "/_next/static/media/warehousing-service.webp",
           height: 1130,
           width: 1e3,
           blurDataURL:
@@ -949,7 +949,7 @@
           blurHeight: 8,
         },
         X = {
-          src: "/_next/static/media/icon-02.19e8073b.png",
+          src: "/_next/static/media/icon-02.webp",
           height: 196,
           width: 196,
           blurDataURL:
@@ -958,7 +958,7 @@
           blurHeight: 8,
         },
         F = {
-          src: "/_next/static/media/icon-03.28d2cc32.png",
+          src: "/_next/static/media/icon-03.webp",
           height: 196,
           width: 196,
           blurDataURL:
@@ -967,7 +967,7 @@
           blurHeight: 8,
         },
         T = {
-          src: "/_next/static/media/icon-04.9d6e2f0d.png",
+          src: "/_next/static/media/icon-04.webp",
           height: 196,
           width: 196,
           blurDataURL:
@@ -1113,7 +1113,7 @@
                         children: (0, i.jsx)(Y(), {
                           className: u()("hero-button button-deploy"),
                           title: "Read More",
-                          href: "#",
+                          href: "https://quietstainer-document-0.gitbook.io/axion-ai",
                           children: "Read More",
                         }),
                       }),
@@ -1198,9 +1198,9 @@
                                   className: u()(
                                     "hero-button-ai button-deploy"
                                   ),
-                                  title: "Deploy Now",
-                                  href: "/sales",
-                                  children: "Deploy Now",
+                                  title: "Launch App",
+                                  href: "https://axion-ai-app-cs.vercel.app/",
+                                  children: "Launch App",
                                 }),
                               }),
                             ],

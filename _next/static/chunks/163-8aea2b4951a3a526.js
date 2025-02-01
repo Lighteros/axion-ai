@@ -4,7 +4,7 @@
     1673: function (e, s) {
       "use strict";
       s.Z = {
-        src: "/logo-dark.webp",
+        src: "/logo-dark.png",
         height: 74,
         width: 310,
         blurDataURL:
@@ -227,8 +227,8 @@
                           (0, t.jsx)("li", {
                             children: (0, t.jsx)("a", {
                               className: u()("page-scroll"),
-                              href: "#home",
-                              children: "Home",
+                              href: "https://etherscan.io/token/0x00000000000000000000000000000000000000",
+                              children: "Etherscan",
                             }),
                           }),
                           (0, t.jsx)("li", {
@@ -236,8 +236,17 @@
                               className: u()("page-scroll"),
                               target: "_blank",
                               title: "Litepaper",
-                              href: "https://docs.exabits.ai/",
-                              children: "Litepaper",
+                              href: "https://dexscreener.com/ethereum/0x0123456789",
+                              children: "Dexscreener",
+                            }),
+                          }),
+                          (0, t.jsx)("li", {
+                            children: (0, t.jsx)(l(), {
+                              className: u()("page-scroll"),
+                              target: "_blank",
+                              title: "Litepaper",
+                              href: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
+                              children: "Dextools",
                             }),
                           }),
                         ],
@@ -253,17 +262,8 @@
                             (0, t.jsx)("li", {
                               className: u()("social-icon"),
                               children: (0, t.jsx)(l(), {
-                                className: u()("fab fa-discord"),
-                                href: "https://discord.com/invite/exabits",
-                                target: "_blank",
-                                title: "Axion Discord",
-                              }),
-                            }),
-                            (0, t.jsx)("li", {
-                              className: u()("social-icon"),
-                              children: (0, t.jsx)(l(), {
                                 className: u()("fab fa-telegram-plane"),
-                                href: "https://t.me/+D0CulDl9udZjMWIx",
+                                href: "https://t.me/Axion_AI_TG",
                                 target: "_blank",
                                 title: "Axion Telegram",
                               }),
@@ -272,7 +272,7 @@
                               className: u()("social-icon"),
                               children: (0, t.jsx)(l(), {
                                 className: u()("fab fa-twitter"),
-                                href: "https://twitter.com/exa_bits",
+                                href: "https://x.com/Axion_AI_X",
                                 target: "_blank",
                                 title: "Axion Twitter",
                               }),
@@ -280,16 +280,8 @@
                             (0, t.jsx)("li", {
                               className: u()("social-icon"),
                               children: (0, t.jsx)(l(), {
-                                className: u()("fab fa-medium-m"),
-                                target: "_blank",
-                                href: "https://medium.com/decentralizedcomputing",
-                              }),
-                            }),
-                            (0, t.jsx)("li", {
-                              className: u()("social-icon"),
-                              children: (0, t.jsx)(l(), {
                                 className: u()("fa fa-book-reader"),
-                                href: "https://docs.exabits.ai/",
+                                href: "https://quietstainer-document-0.gitbook.io/axion-ai",
                                 target: "_blank",
                                 title: "Axion Documentation",
                               }),
@@ -461,7 +453,7 @@
                                 className: g()("page-scroll"),
                                 target: "_blank",
                                 title: "Litepaper",
-                                href: "https://docs.exabits.ai/",
+                                href: "https://quietstainer-document-0.gitbook.io/axion-ai",
                                 children: "Litepaper",
                               }),
                             }),
