@@ -227,7 +227,7 @@
                           (0, t.jsx)("li", {
                             children: (0, t.jsx)("a", {
                               className: u()("page-scroll"),
-                              href: "https://etherscan.io/token/0x5a7F4574eFb55D75645dbF1C41bc505bbC486C98",
+                              href: "https://etherscan.io/token/0xfe4ff17d7ff7ceE681592942e9e7888743c9ffd3",
                               children: "Etherscan",
                             }),
                           }),
@@ -236,7 +236,7 @@
                               className: u()("page-scroll"),
                               target: "_blank",
                               title: "Litepaper",
-                              href: "https://dexscreener.com/ethereum/0x5a7F4574eFb55D75645dbF1C41bc505bbC486C98",
+                              href: "https://dexscreener.com/ethereum/0xfe4ff17d7ff7ceE681592942e9e7888743c9ffd3",
                               children: "Dexscreener",
                             }),
                           }),
@@ -245,7 +245,7 @@
                               className: u()("page-scroll"),
                               target: "_blank",
                               title: "Litepaper",
-                              href: "https://www.dextools.io/app/en/ether/pair-explorer/0x5a7F4574eFb55D75645dbF1C41bc505bbC486C98",
+                              href: "https://www.dextools.io/app/en/ether/pair-explorer/0xfe4ff17d7ff7ceE681592942e9e7888743c9ffd3",
                               children: "Dextools",
                             }),
                           }),
@@ -444,7 +444,7 @@
                                 className: g()("page-scroll"),
                                 target: "_blank",
                                 title: "Dextools",
-                                href: "https://www.dextools.io/app/en/ether/pair-explorer/0x5a7F4574eFb55D75645dbF1C41bc505bbC486C98",
+                                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xfe4ff17d7ff7ceE681592942e9e7888743c9ffd3",
                                 children: "Dextools",
                               }),
                             }),
@@ -464,7 +464,7 @@
                           children: (0, t.jsx)("li", {
                             children: (0, t.jsxs)("a", {
                               className: g()("page-scroll join-nav "),
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x5a7F4574eFb55D75645dbF1C41bc505bbC486C98",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xfe4ff17d7ff7ceE681592942e9e7888743c9ffd3",
                               children: [
                                 "Buy Now",
                                 (0, t.jsx)("strong", { children: "▽" }),
