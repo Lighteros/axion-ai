@@ -191,7 +191,7 @@
                                 children: "Buy Now",
                               }),
                               (0, i.jsx)("a", {
-                                href: "https://quietstainer-document-0.gitbook.io/axion-ai",
+                                href: "https://docs.axionai.pro",
                                 title: "More GPUs",
                                 className: u()("btn btn-more-gpus"),
                                 onClick: a,
@@ -672,7 +672,7 @@
                         children: (0, i.jsx)("div", {
                           className: u()("col-lg-12 mt-3 mil-up"),
                           children: (0, i.jsx)("a", {
-                            href: "https://axion-ai-app-cs.vercel.app/",
+                            href: "https://app.axionai.pro",
                             title: "Launch App",
                             className: u()(
                               "btn btn-lg button-animated btn-contact-sales mt-3"
@@ -1113,7 +1113,7 @@
                         children: (0, i.jsx)(Y(), {
                           className: u()("hero-button button-deploy"),
                           title: "Read More",
-                          href: "https://quietstainer-document-0.gitbook.io/axion-ai",
+                          href: "https://docs.axionai.pro",
                           children: "Read More",
                         }),
                       }),
@@ -1199,7 +1199,7 @@
                                     "hero-button-ai button-deploy"
                                   ),
                                   title: "Launch App",
-                                  href: "https://axion-ai-app-cs.vercel.app/",
+                                  href: "https://app.axionai.pro",
                                   children: "Launch App",
                                 }),
                               }),

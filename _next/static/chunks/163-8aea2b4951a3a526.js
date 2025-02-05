@@ -281,7 +281,7 @@
                               className: u()("social-icon"),
                               children: (0, t.jsx)(l(), {
                                 className: u()("fa fa-book-reader"),
-                                href: "https://quietstainer-document-0.gitbook.io/axion-ai",
+                                href: "https://docs.axionai.pro",
                                 target: "_blank",
                                 title: "Axion Documentation",
                               }),
@@ -453,17 +453,8 @@
                                 className: g()("page-scroll"),
                                 target: "_blank",
                                 title: "Litepaper",
-                                href: "https://quietstainer-document-0.gitbook.io/axion-ai",
+                                href: "https://docs.axionai.pro",
                                 children: "Litepaper",
-                              }),
-                            }),
-                            (0, t.jsx)("li", {
-                              children: (0, t.jsx)(l(), {
-                                className: g()("page-scroll"),
-                                target: "_blank",
-                                title: "Uniswap",
-                                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
-                                children: "Buy AXI",
                               }),
                             }),
                           ],
