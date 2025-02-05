@@ -120,7 +120,7 @@
                                 className: g()("page-scroll"),
                                 target: "_blank",
                                 title: "Blog",
-                                href: "https://www.dextools.io/app/en/ether/pair-explorer/0x00000000000000000000000000000000000000",
+                                href: "https://www.dextools.io/app/en/ether/pair-explorer/0x5a7F4574eFb55D75645dbF1C41bc505bbC486C98",
                                 children: "Dextools",
                               }),
                             }),
@@ -140,7 +140,7 @@
                           children: (0, l.jsx)("li", {
                             children: (0, l.jsxs)("a", {
                               className: g()("page-scroll join-nav "),
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x5a7F4574eFb55D75645dbF1C41bc505bbC486C98",
                               children: [
                                 "Buy Now",
                                 (0, l.jsx)("strong", { children: "▽" }),

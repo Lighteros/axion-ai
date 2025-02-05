@@ -183,7 +183,7 @@
                             ),
                             children: [
                               (0, i.jsx)("a", {
-                                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x5a7F4574eFb55D75645dbF1C41bc505bbC486C98",
                                 title: "Buy Now",
                                 className: u()(
                                   "btn btn-lg button-animated btn-contact-sales"
