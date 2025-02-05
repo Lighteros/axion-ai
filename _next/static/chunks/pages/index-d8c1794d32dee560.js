@@ -120,7 +120,7 @@
                                 className: g()("page-scroll"),
                                 target: "_blank",
                                 title: "Blog",
-                                href: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
+                                href: "https://www.dextools.io/app/en/ether/pair-explorer/0x00000000000000000000000000000000000000",
                                 children: "Dextools",
                               }),
                             }),
