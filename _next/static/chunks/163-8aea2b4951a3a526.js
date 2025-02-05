@@ -473,9 +473,9 @@
                           children: (0, t.jsx)("li", {
                             children: (0, t.jsxs)("a", {
                               className: g()("page-scroll join-nav "),
-                              href: "#subscribe",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
                               children: [
-                                "Follow ",
+                                "Buy Now",
                                 (0, t.jsx)("strong", { children: "▽" }),
                               ],
                             }),
